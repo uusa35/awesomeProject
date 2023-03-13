@@ -9,7 +9,7 @@ import {
   useColorScheme,
   View,
   TouchableOpacity,
-  Image,c
+  Image,
   Pressable,
 } from 'react-native';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
